@@ -1,6 +1,6 @@
-#Gatsby TicTacToe
+# Gatsby TicTacToe
 
-##About
+## About
 TicTacToe game with time travel feature. 
 
 ## TO RUN THIS PROJECT 
